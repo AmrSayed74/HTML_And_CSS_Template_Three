@@ -49,7 +49,6 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
-
 /* Small Screens */
 @media (min-width: 768px) {
   .container {
